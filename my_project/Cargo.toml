@@ -2,6 +2,7 @@
 members = [
     "module1",
     "module2",
-    "module3"
+    "module3",
+    "financial-data-fetcher-rust"
 ]
 resolver = "3"

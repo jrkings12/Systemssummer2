@@ -1,6 +1,5 @@
 use std::fs::File;
 use std::io::{Write, BufReader, BufRead};
-use std::error::Error;
 
 struct Book {
     title: String,
