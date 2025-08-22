@@ -4,5 +4,5 @@ members = [
     "module2",
     "module3",
     "financial-data-fetcher-rust"
-]
+, "website_checker_student"]
 resolver = "3"

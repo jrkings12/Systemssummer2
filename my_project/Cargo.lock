@@ -687,6 +687,16 @@ dependencies = [
 ]
 
 [[package]]
+name = "website_checker_student"
+version = "0.1.0"
+dependencies = [
+ "chrono",
+ "serde",
+ "serde_json",
+ "ureq",
+]
+
+[[package]]
 name = "windows-core"
 version = "0.61.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
